@@ -4,10 +4,10 @@ public class Main {
         System.out.println(555);
     }
 
-    static class Main2 {
+    static class Main3 {
         public  static void  main(String[] args){
             System.out.println("hello2!");
-            System.out.println(222);
+            System.out.println("sdfsdfsdf");
         }
     }
 }
